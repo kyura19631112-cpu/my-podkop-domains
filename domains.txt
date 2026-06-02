@@ -78,6 +78,7 @@ www.staffobmen.com
 
 # --- Для проверки работы прокси ---
 ifconfig.me
+xtls.tech
 ipinfo.io
 2ip.ru
 fakeip.podkop.fyi
