@@ -1,0 +1,84 @@
+# ==========================================
+# Ручной список доменов для Podkop
+# Формат: один домен на строку
+# ==========================================
+
+# --- Пенсионный фонд Украины ---
+portal.pfu.gov.ua
+pfu.gov.ua
+www.pfu.gov.ua
+api.pfu.gov.ua
+
+# --- Google-сервисы (YouTube, Google, Gmail, ChatGPT и связанные) ---
+youtube.com
+youtu.be
+ytimg.com
+youtubei.googleapis.com
+googlevideo.com
+ggpht.com
+google.com
+www.google.com
+googleapis.com
+fonts.googleapis.com
+fonts.gstatic.com
+gstatic.com
+accounts.google.com
+mail.google.com
+drive.google.com
+play.google.com
+ogs.google.com
+www.gstatic.com
+
+# --- ChatGPT и OpenAI ---
+chatgpt.com
+openai.com
+auth0.openai.com
+cdn.oaistatic.com
+cdn.openai.com
+files.oaiusercontent.com
+chat.openai.com
+
+# --- Социальные сети и мессенджеры ---
+whatsapp.com
+web.whatsapp.com
+whatsapp.net
+discord.com
+discordapp.com
+cdn.discordapp.com
+twitter.com
+x.com
+twimg.com
+telegram.org
+tdesktop.com
+
+# --- Другие популярные сервисы ---
+netflix.com
+nflxvideo.net
+nflxext.com
+spotify.com
+scdn.co
+twitch.tv
+jtvnw.net
+reddit.com
+redditmedia.com
+imgur.com
+icloud.com
+apple.com
+icloud-content.com
+
+# --- Банки и финансовые сервисы ---
+privatbank.ua
+www.privatbank.ua
+api.privatbank.ua
+auth.privatbank.ua
+bank.privatbank.ua
+
+staffobmen.com
+www.staffobmen.com
+
+# --- Для проверки работы прокси ---
+ifconfig.me
+ipinfo.io
+2ip.ru
+fakeip.podkop.fyi
+ip.podkop.fyi
