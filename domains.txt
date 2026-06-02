@@ -80,6 +80,8 @@ www.staffobmen.com
 ifconfig.me
 xtls.tech
 ipinfo.io
+xtls.tech
+cdnjs.cloudflare.com
 2ip.ru
 fakeip.podkop.fyi
 ip.podkop.fyi
